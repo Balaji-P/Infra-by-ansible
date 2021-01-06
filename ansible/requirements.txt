@@ -9,7 +9,7 @@ ipaddress==1.0.18
 Jinja2==2.9.6
 MarkupSafe==1.0
 molecule==2.1.0
-paramiko==2.2.1
+paramiko==2.2.4
 pyasn1==0.3.4
 pycparser==2.18
 pycrypto==2.6.1
